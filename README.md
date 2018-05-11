@@ -1,2 +1,3 @@
-# Flexbox-Css
-Overview for Flexbox Css for adding in projects
+Flexbox CSS
+
+Learning Flexbox and its element for future use in projects
